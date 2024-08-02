@@ -5,5 +5,5 @@ export default function getListStudentIds(array) {
         return Id;
     }
 
-    else return;
+    else return [];
 }
